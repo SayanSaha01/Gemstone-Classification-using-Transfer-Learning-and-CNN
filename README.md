@@ -1,3 +1,2 @@
-# Gemstone-Classification-using-Transfer-Learning-and-CNN
-
-![gemstones](https://user-images.githubusercontent.com/75988493/147533586-427ebb7f-b473-46b5-ab5a-a0e46b1b8c2c.png)
+# Context
+What is a gemstone? A gemstone (gem, fine gem, jewel, precious stone, or semi-precious stone) is a piece of mineral crystal which, in cut and polished form, is used to make jewelry or other adornments. Certain rocks (such as lapis lazuli and opal) and occasionally organic materials that are not minerals (such as amber, jet, pearl) are also used for jewelry and are therefore often considered to be gemstones as well
